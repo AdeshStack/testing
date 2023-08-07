@@ -1,3 +1,5 @@
 coder
 
 new code
+
+using other branch change will not affect the master branch
